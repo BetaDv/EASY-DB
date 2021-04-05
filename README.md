@@ -1,7 +1,7 @@
 # [JSON-DB](https://www.npmjs.com/package/@betadv/json-db)
 # JSON-DB
 ## 1.2.0
-A free Easy to Use JSON indeed 0DATABASE NPM package.
+A free Easy to Use JSON DATABASE NPM package.
 
 
 ## Features:
