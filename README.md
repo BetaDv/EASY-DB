@@ -17,7 +17,7 @@ A free Easy to Use JSON indeed 0DATABASE NPM package.
 ## Changes?
 ### - Fully Rewritted
 ### - <db>has("entry") Function
-### - <db>startdWith("string") Function
+### - <db>startsWith("string") Function
 ### - <db>all({ object: true / false }) Can Show Whole Database Object
 ### - <db>add("entry", num) Function Back
 ### - <db>remove("entry", num) Function
