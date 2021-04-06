@@ -14,7 +14,7 @@ A free Easy to Use JSON DATABASE NPM package.
 
 ## Changes?
 ### - Live Database Change Support
-### - <db>size() Function
+### - <db>dbSize() Function
 ### - <db>startsWith(key, true / false) (true / false for Sorting) Function
 ### - If Database Path Doesn't Exist It Will Now Create It
 ### - More Errors Now for Bad Arguments etc...
