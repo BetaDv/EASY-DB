@@ -1,23 +1,24 @@
 # [JSON-DB](https://www.npmjs.com/package/@betadv/json-db)
-## 1.2.2
+## 1.2.4
 A free Easy to Use JSON DATABASE NPM package.
 
 ## Features:
 ### - Automatic Database Creation (Including Path)
+### - Easy Formatting (If Wanted) In Built
 ### - Custom Path Support
 ### - Multi Database Support
 ### - Data Adding / Setting
+### - Pushing or Removing Data from Arrays Easily
 ### - Data Removing
 ### - Data Retrieving
 ### - Adding to Data
 ### - Sub-Property Support
 
 ## Changes?
-### - Live Database Change Support
-### - <db>dbSize() Function
-### - <db>startsWith(key, true / false) (true / false for Sorting) Function
-### - If Database Path Doesn't Exist It Will Now Create It
-### - More Errors Now for Bad Arguments etc...
-### - Now Database Must be a Valid Path: "./path.json", must End with ".json".
+### - New Option on Creation: { beautify: false / true } (Makes Json Look Better or Worse), default value is false
+### - <db>push(key, value) Function
+### - <db>unpush(key, value) Function
 
-### [PACKAGE PAGE](https://www.npmjs.com/package/@betadv/json-db)
+DOCS: https://github.com/BetaDv/JSON-DB/wiki/
+DISCORD SUPPORT SERVER: https://discord.gg/Xte9a6g5d8
+PACKAGE PAGE: https://www.npmjs.com/package/@betadv/json-db
