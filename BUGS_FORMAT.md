@@ -1,8 +1,11 @@
-### EASY DB - Bug Report Format
+## EASY DB - Bug Report Format
 
-**Bug**: Bug\n
-**How to Recreate**: Step by Step if Possible\n
-**Photo** (**Optional**): For Extra Understanding\n
+**Bug**: Bug
+### ** **
+**How to Recreate**: Step by Step if Possible
+### ** **
+**Photo** (**Optional**): For Extra Understanding
+### ** **
 **Error**: If any Present (Upload to https://sourceb.in)
-\n
+### ** **
 To Report Bugs go Here: https://github.com/BetaDv/EASY-DB/issues
