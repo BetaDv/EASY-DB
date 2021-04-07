@@ -1,4 +1,4 @@
-# [JSON-DB](https://www.npmjs.com/package/@betadv/easy-db)
+# [EASY-DB](https://www.npmjs.com/package/@betadv/easy-db)
 ## 1.0.0
 A free Easy to Use DATABASE NPM package.
 
