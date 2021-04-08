@@ -1,0 +1,29 @@
+# EASY DB - Setup
+
+```js
+const edb = require("@betadv/easy-db");
+
+const db = new edb();
+
+let options = { 
+  path: "./database.json", // MAKES THE DATABASE GO TO THE SPECIFIC PATH (DEFAULTS TO "./database.json" OR "./database.dv")
+  encrypt: true / false, // ENCRYPT IS SELF EXPLANATORY (DEFAULTS TO "TRUE") (ALLOWS ENCRYPTED DATABASE) (EXTENSION MUST BE ".DV") (FOR JSON EXTENSION MUST BE ".JSON")
+  liveDB: false / true, // LIVE DB MAY MAKE THE DB SLOWER (ONLY FOR JSON DB)
+  beautify: false / true, // BEAUTIFY MAKES THE DATABASE FORMATTED IF ON (DEFAULTS TO "FALSE") (ONLY FOR JSON DB)
+  autoLoad: true / false // AUTO LOAD DATABASE, IF NOT ON (ANY FUNCTION USED WON'T WORK, IT WILL NOTIFY YOU), TO ENABLE FUNCTIONS TO BE USED AGAIN USE: <db>load() FUNCTION
+}
+// ALL OPTIONS ARE OPTIONAL
+// YOU MAY SKIP WRITING THEM
+
+let events = {
+  READY: {
+    CONTENT: { code: 'LLD1x1', message: 'DB Loaded Successfuly.' },
+    INFO: `
+    MUST BE USED BEFORE <DB>.load() FUNCTION IN ORDER TO WORK,
+    DOESN'T WORK WITH AUTOLOAD,
+    WITH AUTO LOAD ON, IT WILL SAY A MESSAGE WHEN SUCCESSFULY LOADED
+    `
+  }
+};
+// EVENTS ARE OPTIONAL, USEFUL FOR SOME CUSTOM SYSTEMS / CUSTOM MESSAGES
+```
