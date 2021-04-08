@@ -1,5 +1,5 @@
 # [EASY-DB](https://www.npmjs.com/package/@betadv/easy-db)
-## 1.0.2
+## 1.0.3
 A free Easy to Use DATABASE NPM package.
 
 ### Features:
@@ -15,8 +15,8 @@ A free Easy to Use DATABASE NPM package.
 - Sub-Property Support
 
 ### Changes:
- - [**+**] <db>unpush("key", "value", **count**) (You Can Now Select the Amount of Times the Same Value Should be Removed (Optional, Default Value: "all"))
- - [**X**] Database Creation not Working Unless Providing {} or any Other Object as Options Field
+ - [**+**] New Option for Database (**{ autoLoad: true / false }**)
+ - [**+**] Event Listener, Custom Message on Load and That Stuff is Now Possible (Related to Option Above)
  - [**+**] Added, [**-**] Removed, [**X**] Fixed.
 
 ### Links:
