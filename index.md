@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# [EASY-DB](https://www.npmjs.com/package/@betadv/easy-db)
+## 1.0.3
+A free and Easy to Use DATABASE NPM package.
 
-You can use the [editor on GitHub](https://github.com/BetaDv/EASY-DB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Features:
+- JSON Database and (or) Encrypted Database
+- Automatic Database Creation (Including Path)
+- Custom Path Support
+- Multi Database Support
+- Data Adding / Setting
+- Pushing or Removing Data from Arrays Easily
+- Data Removing
+- Data Retrieving
+- Adding to Data
+- Sub-Property Support
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Changes:
+ - [**+**] New Option for Database (**{ autoLoad: true / false }**)
+ - [**+**] Event Listener, Custom Message on Load and That Stuff is Now Possible (Related to Option Above)
+ - [**+**] Added, [**-**] Removed, [**X**] Fixed.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BetaDv/EASY-DB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Links:
+- DOCS: https://github.com/BetaDv/EASY-DB/wiki
+- DISCORD SUPPORT SERVER: https://discord.gg/Xte9a6g5d8
+- PACKAGE PAGE: https://www.npmjs.com/package/@betadv/easy-db
