@@ -1,6 +1,6 @@
 # [EASY-DB](https://www.npmjs.com/package/@betadv/easy-db)
 ## 1.0.3
-A free Easy to Use DATABASE NPM package.
+A free and Easy to Use DATABASE NPM package.
 
 ### Features:
 - JSON Database and (or) Encrypted Database
