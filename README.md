@@ -16,7 +16,7 @@ A free Easy to Use DATABASE NPM package.
 
 ## Changes:
  - [+] <db>unpush("key", "value", **count**) (You Can Now Select the Amount of Times the Same Value Should be Removed (Optional, Default Value: "all"))
- - [\X] Database Creation not Working Unless Providing {} or any Other Object as Options Field
+ - \[X] Database Creation not Working Unless Providing {} or any Other Object as Options Field
 [+] Added, [-] Removed, [X] Fixed.
 
 ## Links:
