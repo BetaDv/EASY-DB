@@ -20,6 +20,6 @@ A free Easy to Use DATABASE NPM package.
  - [**+**] Added, [**-**] Removed, [**X**] Fixed.
 
 ## Links:
-DOCS: https://github.com/BetaDv/EASY-DB/wiki
-DISCORD SUPPORT SERVER: https://discord.gg/Xte9a6g5d8
-PACKAGE PAGE: https://www.npmjs.com/package/@betadv/easy-db
+- DOCS: https://github.com/BetaDv/EASY-DB/wiki
+- DISCORD SUPPORT SERVER: https://discord.gg/Xte9a6g5d8
+- PACKAGE PAGE: https://www.npmjs.com/package/@betadv/easy-db
