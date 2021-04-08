@@ -1,0 +1,12 @@
+# EASY DB - Pushing to an Array
+
+```js
+db.push("Entry Name", content);
+// Content can Be Anything
+
+// EXAMPLE
+db.set("betadv", { stuff: ["PC", "Phone"] });
+db.push("betadv.stuff", "Broken Monitor After Playing CS:GO");
+// Result:
+// ["PC", "Phone", "Broken Monitor After Playing CS:GO"]
+```
