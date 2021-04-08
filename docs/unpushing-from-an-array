@@ -1,0 +1,13 @@
+# EASY DB - Unpushing from an Array
+
+```js
+db.unpush("Entry Name", content, count);
+// Content can Be Anything That Exists in the Array
+// Count Must be an Integer or "all" (Default Value is "all") (Optional Field)
+
+// EXAMPLE
+db.set("betadv", { stuff: ["PC", "Tablet" "Phone"] });
+db.unpush("betadv.stuff", "TABLET");
+// Result:
+// ["PC", "Phone"]
+```
