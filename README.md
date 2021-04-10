@@ -1,5 +1,5 @@
 # EASY DB
-## 1.0.4
+## 1.0.5
 A free Easy to Use DATABASE NPM package.
 
 ### Features:
@@ -16,11 +16,11 @@ A free Easy to Use DATABASE NPM package.
 - Promise or Non Promise Based Database if Wanted
 
 ### Changes:
- - [**+**] Promise Support Now as an Option ({ promises: false / true }) (In Beta, Any Bugs Regarding it may be Reported)
+ - [**X**] Database Options not Working Well When Multiple On
  - [**+**] Added, [**-**] Removed, [**X**] Fixed.
 
 ### Links:
 - DOCS: https://github.com/BetaDv/EASY-DB/wiki
-- ISSUES / SUGGESTIONS: https://github.com/BetaDv/EASY-DB/issues
+- BUGS / SUGGESTIONS: https://github.com/BetaDv/EASY-DB/issues
 - DISCORD SUPPORT SERVER: https://discord.gg/Xte9a6g5d8
 - PACKAGE PAGE: https://www.npmjs.com/package/@betadv/easy-db
